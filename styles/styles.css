@@ -51,3 +51,10 @@ h2 {
     margin: 5px;
     padding: 5px;
 }
+
+.border {
+    margin-bottom: 20px;
+    border-radius: 12px;
+    width: 1400px;
+    padding: 20px;
+}
